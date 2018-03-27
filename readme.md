@@ -1,10 +1,10 @@
 <a align="center" href="https://costaleonardo.github.io/javascript-book-list/"><img width="100%" src="img/app.png" alt="Book List App"></a>
 
-> Simple application that tracks book information.
+> Add book information to a list.
 
 ## Getting Started
 
-Clone or download ZIP and open inex.html.
+Clone or download ZIP and open index.html.
 
 ## License
 
